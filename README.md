@@ -9,7 +9,7 @@
 <body>
   <h1>Crazy Cattle – A Wacky Rodeo You Won’t Forget</h1>
   <p>
-    Saddle up and dive into the hilarious chaos of <strong><a href="https://colorrush.org/crazy-cattle">Crazy </a></strong>, the wild 3D game where you take on the role of a fearless cowboy (or cowgirl) trying to wrangle runaway cows. With its cartoon-style graphics and over-the-top gameplay, <strong>Crazy Cattle</strong> delivers a fast-paced, laugh-out-loud experience that’s perfect for quick play sessions or longer rodeo marathons.
+    Saddle up and dive into the hilarious chaos of <strong><a href="https://colorrush.org/crazy-cattle">Crazy Cattle</a></strong>, the wild 3D game where you take on the role of a fearless cowboy (or cowgirl) trying to wrangle runaway cows. With its cartoon-style graphics and over-the-top gameplay, <strong>Crazy Cattle</strong> delivers a fast-paced, laugh-out-loud experience that’s perfect for quick play sessions or longer rodeo marathons.
   </p>
 
   <h2>How to Play Crazy Cattle:</h2>
