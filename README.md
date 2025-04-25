@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Crazy Cattle Game Guide</title>
+
 </head>
 <body>
   <h1>Crazy Cattle – A Wacky Rodeo You Won’t Forget</h1>
