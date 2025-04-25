@@ -1,4 +1,4 @@
-
+<img src="https://colorrush.org/data/image/crazy-cattle-unblocked-clorg.png" alt="Crazy cattle " width="150">
 <!DOCTYPE html>
 <html lang="en">
 <head>
