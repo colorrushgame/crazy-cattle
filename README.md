@@ -1,4 +1,4 @@
-<iframe src="https://html5.gamedistribution.com/c20fc92d9de64674a67c621cb03e079d/?gd_sdk_referrer_url=https://gamedistribution.com/games/gt-formula-championship/" width="100%" height="660" allowfullscreen=""></iframe>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +11,10 @@
   <p>
     Saddle up and dive into the hilarious chaos of <strong><a href="https://colorrush.org/crazy-cattle">Crazy Cattle</a></strong>, the wild 3D game where you take on the role of a fearless cowboy (or cowgirl) trying to wrangle runaway cows. With its cartoon-style graphics and over-the-top gameplay, <strong>Crazy Cattle</strong> delivers a fast-paced, laugh-out-loud experience that’s perfect for quick play sessions or longer rodeo marathons.
   </p>
-
+<strong><a href="https://colorrush.org/goat-simulator">Goat Simulator</a></strong>
+<strong><a href="https://colorrush.org/animal-rampage-3d">Animal Rampage 3D</a></strong>
+<strong><a href="https://colorrush.org/italian-brainrot-clicker">Italian Brainrot Clicker</a></strong>
+  <a href="https://colorrush.org/crazy-cattle">Crazy Cattle</a>
   <h2>How to Play Crazy Cattle:</h2>
   <ul>
     <li>Use the <strong>WASD</strong> or <strong>arrow keys</strong> to move your character across the open field.</li>
