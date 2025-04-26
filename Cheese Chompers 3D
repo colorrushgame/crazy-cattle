@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cheese Chompers 3D - Game Summary</title>
+</head>
+<body>
+  <h1>Cheese Chompers 3D - Game Summary</h1>
+  <p><strong>Website:</strong> <a href="https://colorrush.org/cheese-chompers-3d" target="_blank">https://colorrush.org/cheese-chompers-3d</a></p>
+
+  <h2>Overview</h2>
+  <p>
+    Cheese Chompers 3D is a fast-paced, browser-based arena game developed in Unity, where players take control of bouncy, unpredictable rats competing in chaotic showdowns. 
+    With vivid 3D visuals, dynamic physics, and explosive knockouts, this rodent brawler delivers a wildly entertaining experience. 
+    Whether going head-to-head with AI or real players, every match is packed with hilarity and surprise.
+  </p>
+
+  <h2>Gameplay Features</h2>
+  <ul>
+    <li>Battle in a single vibrant 3D arena filled with energetic and unpredictable rat interactions</li>
+    <li>Control expressive 3D rats with exaggerated, comical animations</li>
+    <li>Knock out opponents with forceful hits and enjoy flashy explosion effects</li>
+    <li>Use mid-air flips for a burst of speed—ideal for surprise attacks or quick escapes</li>
+    <li>Enjoy lively visuals and sound design that enhance the game’s playful tone</li>
+  </ul>
+
+  <h2>Objectives</h2>
+  <p>
+    The goal is simple: <strong>be the last rat standing</strong>. Outsmart and outmaneuver your opponents using movement, momentum, and perfectly timed flips 
+    to launch them out of the arena before they get the best of you.
+  </p>
+
+  <h2>How to Play</h2>
+  <p>
+    Navigate your rat with intuitive WASD controls, leap into the air using Space, and use momentum to push rivals off the edge. 
+    With no scores or timers to worry about, it's all about staying in the game and creating chaos.
+  </p>
+
+  <h2>Physics-Based Fun</h2>
+  <ul>
+    <li>Collisions are bouncy and unpredictable, making every encounter unique</li>
+    <li>Faster movement results in more powerful impacts, rewarding speed and precision</li>
+    <li>Edges are dangerous—just one bump can send you flying</li>
+    <li>Chain reactions from one hit can take out multiple opponents</li>
+  </ul>
+
+  <h2>Controls</h2>
+  <ul>
+    <li><strong>WASD</strong> – Move your rat</li>
+    <li><strong>Space</strong> – Jump and flip for a speed boost</li>
+    <li><strong>Mouse</strong> – Adjust the camera angle</li>
+  </ul>
+
+  <h2>Ready to Chomp?</h2>
+  <p>
+    Jump into the absurd world of Cheese Chompers 3D and prove yourself as the ultimate rodent warrior. 
+    Flip, bash, and bounce your way to victory!
+  </p>
+
+  <p>
+    <strong>&rarr;</strong> <a href="#">Goat Simulator</a><br>
+    <strong>&rarr;</strong> <a href="#">Crazy Cattle</a><br>
+    <strong>&rarr;</strong> <a href="#">Italian Brainrot Clicker</a>
+  </p>
+</body>
+</html>
